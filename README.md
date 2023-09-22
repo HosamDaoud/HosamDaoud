@@ -3,11 +3,11 @@
 <h2>👨‍💻 My Cyber Security Projects: </h2>
 
 - <b>Network Comprehensive Topology </b>
-  - [Deep Look into the details](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Deep Look into the details]()
 
 <h2>📃 My Certifacations: </h2>
 
-- [A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A+](link)
 
 <h2> 🤳 Connect with me:</h2>
 
